@@ -1,0 +1,27 @@
+.redes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 550px;
+  height: 350px;
+  font-size: 24px;
+  margin: 40px auto;
+}
+
+.siga, .email{
+  text-align: center;
+}
+
+.email{
+    margin: 10px;
+}
+
+.siga {
+  font-size: 36px;
+}
+
+.redes a{
+    margin: 20px;
+}

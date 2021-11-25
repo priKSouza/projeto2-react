@@ -1,0 +1,14 @@
+.texto-home {
+  text-align: center;
+  font-size: 20px;
+  height: 280px;
+}
+
+.texto-home h3 {
+  text-align: center;
+  text-justify: auto;
+  margin: 150px auto;
+  width: 550px;
+  font-weight: 600;
+  font-size: 24px;
+}

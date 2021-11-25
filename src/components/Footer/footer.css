@@ -1,0 +1,15 @@
+.footer{
+    background-color: #003049;
+    color: #FCBF49;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+.git{
+    text-decoration: none;
+    color: #FCBF49;
+    cursor: pointer;
+}

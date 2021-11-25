@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+    background: white;
+    font-size: 24px;
+    padding: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+}
+
+.navbar a{
+    color: #FCBF49;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
