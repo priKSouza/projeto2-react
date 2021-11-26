@@ -25,3 +25,11 @@
 .redes a{
     margin: 20px;
 }
+
+.click :hover{
+  color: #370617;
+}
+
+.redes p{
+  color: #E85D04;
+}

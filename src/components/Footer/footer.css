@@ -1,6 +1,6 @@
 .footer{
-    background-color: #003049;
-    color: #FCBF49;
+    background-color: #370617;
+    color: #E85D04;
     text-align: center;
     height: 50px;
     width: 100%;
@@ -10,6 +10,6 @@
 
 .git{
     text-decoration: none;
-    color: #FCBF49;
+    color: #E85D04;
     cursor: pointer;
 }

@@ -15,24 +15,28 @@ body {
   height: 40px;
   display: flex;
   text-align: center;
-  border: 2px solid #003049;
+  border: 2px solid #370617;
   border-radius: 0 10px;
   font-size: 18px;
   margin: auto;
-  margin-top: 60px;
+  margin-top: 120px;
   margin-bottom: 40px;
-  color: #f77f00;
+  color: #370617;
+}
+
+.input::placeholder{
+  color: #E85D04;
 }
 
 .card-principal {
   width: 30%;
   display: inline-block;
   text-align: center;
-  background-color: #f77f00;
-  color: #003049;
+  border: 2px solid #370617;
+  color: #370617;
   margin: 20px;
   padding: 10px;
   text-transform: capitalize;
   border-radius: 10px;
-  box-shadow: 5px 5px 5px #003049;
+  box-shadow: 5px 5px 5px #E85D04;
 }

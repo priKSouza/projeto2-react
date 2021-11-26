@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap");
+
 .texto-home {
   text-align: center;
   font-size: 20px;
@@ -5,10 +7,12 @@
 }
 
 .texto-home h3 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #370617;
   text-align: center;
   text-justify: auto;
   margin: 150px auto;
   width: 550px;
   font-weight: 600;
-  font-size: 24px;
+  font-size: 30px;
 }
